@@ -1,16 +1,31 @@
-# khm_app
+📘 IoT Temperature Monitoring App (Flutter + Firebase + API)
 
-A new Flutter project.
+This mobile application fetches live IoT sensor data, stores readings every 10 & 60 minutes, and displays graphs for hour-wise and day-wise temperature trends.
 
-## Getting Started
+🚀 Features
 
-This project is a starting point for a Flutter application.
+🔐 Firebase Email/Password Authentication (Login & Signup)
 
-A few resources to get you started if this is your first Flutter project:
+🌡 Fetch Live IoT Data (Temperature, Humidity, Soil Moisture)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📡 Secure API Integration (Header-Based API Key)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🕒 Automated Data Storage (10 min & 60 min interval)
+
+📊 Hour-wise & Day-wise Temperature Graphs
+
+🎨 Clean Modern UI using Flutter
+
+📱 Android APK Included
+
+🛠 Tech Stack
+
+-Flutter
+
+-Firebase Authentication
+
+-HTTP API Integration
+
+-SharedPreferences (local data storage)
+
+-fl_chart (graphs)
