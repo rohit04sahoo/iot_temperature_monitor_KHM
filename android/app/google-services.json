@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065088179304",
+    "project_id": "khm-temp-app",
+    "storage_bucket": "khm-temp-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065088179304:android:696520c76c75bdfd436fdd",
+        "android_client_info": {
+          "package_name": "com.example.khm_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3hQh3A6oxfPeUBYWYbT4xA-Mw4qe5ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
